@@ -1,4 +1,4 @@
-package com.kingstondynamics.securepass;
+package com.kdyncs.securepass;
 
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;

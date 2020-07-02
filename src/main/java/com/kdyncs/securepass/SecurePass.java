@@ -1,7 +1,6 @@
-package com.kingstondynamics.securepass;
+package com.kdyncs.securepass;
 
 import org.mindrot.jbcrypt.BCrypt;
-
 import java.security.NoSuchAlgorithmException;
 
 public class SecurePass {

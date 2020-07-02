@@ -1,7 +1,6 @@
-package com.kingstondynamics.securepass;
+package com.kdyncs.securepass;
 
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class SecurePassTest {

@@ -1,4 +1,4 @@
-package com.kingstondynamics.securepass;
+package com.kdyncs.securepass;
 
 public class SecurePassException extends Exception {
     
